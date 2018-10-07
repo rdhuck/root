@@ -1,0 +1,1325 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html >
+<head>
+    <title>Certificates - Category -&nbsp;Hermes</title>
+
+        
+
+                        
+    
+                        
+    
+
+    
+<!-- Deprecated since 3.4. To be removed in a future version of Confluence; use AJS.Confluence.getContextPath() -->
+<meta id="confluence-context-path" name="confluence-context-path" content="/confluence">
+<meta name="ajs-context-path" content="/confluence">
+<meta name="ajs-build-number" content="2171">
+<meta id="atlassian-token" name="atlassian-token" content="7fa998337ba7439816da01189c60a5a7fc7a624b">
+<meta id="confluence-space-key" name="confluence-space-key" content="category">
+<meta name="ajs-remote-user" content="">
+<meta name="ajs-static-resource-url-prefix" content="/confluence/s/en/2171/1/_">
+
+<meta name="Generator" content="Adaptavist Theme Builder 4.2.3">
+    
+<script type="text/javascript">
+    // Deprecated global variables. To be removed in a future version of Confluence.
+    var contextPath = '/confluence';
+</script>
+
+    
+
+    <!-- include system css resources -->
+    <link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/19/_/download/superbatch/css/batch.css" media="all">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/19/_/download/superbatch/css/batch.css?ieonly=true" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/19/_/download/superbatch/css/batch.css?media=print" media="print">
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/4.2.3/_/download/batch/com.adaptavist.confluence.themes.sitebuilder:nlstree-resources/com.adaptavist.confluence.themes.sitebuilder:nlstree-resources.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/1.0/_/download/resources/confluence.web.resources:aui-forms/confluence-forms.css" media="all">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/1.0/_/download/batch/confluence.web.resources:aui-forms/confluence.web.resources:aui-forms.css?ieonly=true" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/1.8/_/download/batch/com.atlassian.confluence.plugins.share-page:mail-page-resources/com.atlassian.confluence.plugins.share-page:mail-page-resources.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/1.0/_/download/batch/confluence.web.resources:view-comment/confluence.web.resources:view-comment.css" media="all">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/1.0/_/download/batch/confluence.web.resources:view-comment/confluence.web.resources:view-comment.css?ieonly=true" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/1.16/_/download/batch/confluence.macros.advanced:fancy-box/confluence.macros.advanced:fancy-box.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/1.0.16/_/download/batch/com.atlassian.confluence.plugins.drag-and-drop:support/com.atlassian.confluence.plugins.drag-and-drop:support.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/0.8/_/download/batch/com.atlassian.plugins.shortcuts.atlassian-shortcuts-module:shortcuts/com.atlassian.plugins.shortcuts.atlassian-shortcuts-module:shortcuts.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/en/2171/1/3.5.13/_/download/batch/com.atlassian.confluence.keyboardshortcuts:confluence-keyboard-shortcuts/com.atlassian.confluence.keyboardshortcuts:confluence-keyboard-shortcuts.css" media="all">
+
+    <!-- end system css resources -->
+
+            <link rel="stylesheet" href="/confluence/s/en/2171/1/9/_/styles/combined.css?spaceKey=category" type="text/css">
+    
+                <link rel="stylesheet" type="text/css" href="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/hmenu/src/skin-modern.css">
+        <script type="text/javascript">
+        var _dynarch_menu_url = "/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/hmenu/src/";
+        document.write("<style>.menulist {display:none;}<\/style>");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/confluence/plugins/builder/layout-resources.action?layoutId=KBCATEGORY&amp;key=category&amp;resource=combinedcss&amp;hash=1530029974234confluencesen217119_">
+<link rel="stylesheet" type="text/css" href="/confluence/plugins/builder/layout-resources.action?layoutId=KBCATEGORY&amp;key=category&amp;resource=importcss&amp;hash=1530029974234confluencesen217119_">
+
+
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+
+    <meta name="robots" content="NOYDIR,NOODP">
+    <meta name="confluence-request-time" content="1538905318783">
+
+<meta name="loggedInUsername" content="">
+            <meta name="ajs-keyboardshortcut-hash" content="99b4d5ecb6bdd4f296af49de8ac1fd19">
+    <!-- Deprecated since 3.4. To be removed in a future version of Confluence; use atl.header -->
+            <script type="text/x-template" title="share-content-popup">
+    <form action="#" method="post" class="aui share-content-popup">
+        <fieldset>
+            <label for="users">User name or email</label>
+            <div class="autocomplete-user-target">
+                <input class="text autocomplete-sharepage" id="users" data-max="10" data-dropdown-target=".autocomplete-user-target" data-none-message="No matching user or email found"/>
+            </div>
+            <ol class="recipients">
+            </ol>
+            <div><label for="note">Note</label></div>
+            <textarea class="textarea" id="note" placeholder="Add an optional note"/>
+        </fieldset>
+        <div class="button-panel">
+            <div class="progress-messages-icon"></div>
+            <div class="progress-messages">
+            </div>
+            <input class="button submit" type="submit" value="Share" disabled/>
+            <a class="close-dialog" href="#">Cancel</a>
+        </div>
+    </form>
+</script>
+
+<script type="text/x-template" title="share-content-popup-recipient-username">
+    <li data-username="{username}" style="display: none">
+        <span>
+            <img src="{thumbnailLink.href}" title="{title}">
+            <span>{title}</span>
+            <span class="remove-recipient"/>
+        </span>
+    </li>
+</script>
+
+<script type="text/x-template" title="share-content-popup-recipient-email">
+    <li data-email="{email}" style="display: none">
+        <span>
+            <img src="{icon}" title="{email}">
+            <span>{email}</span>
+            <span class="remove-recipient"/>
+        </span>
+    </li>
+</script>
+            <meta name="ajs-use-keyboard-shortcuts" content="true">
+    
+        <link rel="shortcut icon" href="/confluence/favicon.ico">
+    <link rel="icon" type="image/png" href="/confluence/s/en/2171/1/_/images/logo/confluence_16.png">
+
+    <link rel="search" type="application/opensearchdescription+xml" title="Search Category on Hermes" href="http://kb.mit.edu/confluence/plugins/builder/layout-resources.action?layoutId=KBCATEGORY&amp;key=category&amp;resource=opensearch&amp;hash=1530029974234">
+
+
+<style type="text/css">
+    .atb-sidebar.expanded {display:run-in;}
+    .atb-sidebar.collapsed {display:none;visibility:collapse;}
+</style>
+
+<script type="text/javascript">
+    function editInWord() {
+    if (window.ActiveXObject) {
+        var ed;
+        try {
+            ed = new ActiveXObject('SharePoint.OpenDocuments');
+        } catch(err) {
+            window.alert('Unable to create an ActiveX object to open the document. This is most likely because of the security settings for your browser.');
+            return false;
+        }
+        if (ed) {
+            ed.EditDocument('http://kb.mit.edu/confluence/plugins/servlet/confluence/editinword/category/Certificates.doc', 'Word.Document');
+            return false;
+        } else {
+            window.alert('Cannot instantiate the required ActiveX control to open the document. This is most likely because you do not have Office installed or you have an older version of Office.');
+            return false;
+        }
+    } else if (window.URLLauncher) {
+        var wdFile = new URLLauncher();
+        wdFile.open('/confluence/plugins/servlet/confluence/editinword/category/Certificates.doc');
+    } else if (window.InstallTrigger) {
+        if (window.confirm('A plugin is required to use this feature. Would you like to download it?')) {
+            InstallTrigger.install({'WebDAV Launcher': '/confluence/download/resources/com.atlassian.confluence.extra.officeconnector:viewfile/webdavloader.xpi'});
+        }
+    } else {
+        window.alert('Internet Explorer or Firefox are required to use this feature');
+    }
+    return false;
+}
+</script>
+
+        <!-- include system javascript resources -->
+                        
+    
+    <script type="text/javascript" src="/confluence/s/en/2171/1/19/_/download/superbatch/js/batch.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/4.2.3/_/download/batch/com.adaptavist.confluence.themes.sitebuilder:ajs-compat-resources/com.adaptavist.confluence.themes.sitebuilder:ajs-compat-resources.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:nlstree-resources/nlstree.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/4.2.3/_/download/batch/com.adaptavist.confluence.themes.sitebuilder:nlstree-resources/com.adaptavist.confluence.themes.sitebuilder:nlstree-resources.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/4.2.3/_/download/batch/com.adaptavist.confluence.themes.sitebuilder:pagetree-resources/com.adaptavist.confluence.themes.sitebuilder:pagetree-resources.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/1.8/_/download/batch/com.atlassian.confluence.plugins.share-page:mail-page-resources/com.atlassian.confluence.plugins.share-page:mail-page-resources.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/1.16/_/download/batch/confluence.macros.advanced:fancy-box/confluence.macros.advanced:fancy-box.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/1.16/_/download/batch/confluence.macros.advanced:thumbnail-images/confluence.macros.advanced:thumbnail-images.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/1.0.16/_/download/batch/com.atlassian.confluence.plugins.drag-and-drop:support/com.atlassian.confluence.plugins.drag-and-drop:support.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/1.0.16/_/download/batch/com.atlassian.confluence.plugins.drag-and-drop:drag-and-drop-for-view-content/com.atlassian.confluence.plugins.drag-and-drop:drag-and-drop-for-view-content.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/1.9/_/download/batch/com.atlassian.confluence.plugins.doctheme:splitter/com.atlassian.confluence.plugins.doctheme:splitter.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/0.8/_/download/batch/com.atlassian.plugins.shortcuts.atlassian-shortcuts-module:shortcuts/com.atlassian.plugins.shortcuts.atlassian-shortcuts-module:shortcuts.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/3.5.13/_/download/batch/com.atlassian.confluence.keyboardshortcuts:confluence-keyboard-shortcuts/com.atlassian.confluence.keyboardshortcuts:confluence-keyboard-shortcuts.js" ></script>
+<script type="text/javascript" src="/confluence/s/en/2171/1/1.0/_/download/batch/legacy.confluence.web.resources:prototype/legacy.confluence.web.resources:prototype.js" ></script>
+
+    
+    <!-- end system javascript resources -->
+
+<script type="text/javascript" src="/confluence/plugins/builder/layout-resources.action?layoutId=KBCATEGORY&amp;resource=javascript&amp;hash=1530029974234"></script>
+
+    <script type="text/javascript" src="/confluence/browser_detect.js"></script>
+<script type="text/javascript" src="/confluence/popup.js"></script>
+<link type="text/css" rel="stylesheet" href="/confluence/popup.css" media="all"/>
+
+
+
+    
+    <link rel="canonical" href="http://kb.mit.edu/confluence/display/category/Certificates">
+    <link rel="shortlink" href="http://kb.mit.edu/confluence/x/kAku">
+    <meta name="wikilink" content="[category:Certificates]">
+    <meta name="page-version" content="1">
+
+</head>
+<body onload="BuilderEvents.onPageLoad();" onunload="BuilderEvents.onPageUnload();" class="atb-body layout-KBCATEGORY  spacekey-category mode-view context-page decorator-page action-viewpage " id="atb-document">
+
+
+<dl id="atb-accessKeys">
+  <dt>Access Keys:</dt>
+  <dd><a href="#atb-content" accesskey="0">Skip to content (Access Key - 0)</a></dd>
+</dl>
+
+<script type="text/javascript">
+
+// Find shortlink URL, then put it into the track page view:
+var shorturllink = 'noShortURL';
+
+if ( document.title.indexOf("Site Search") > -1 ) { // See if the title shows that you're on a Search Page.
+  shorturllink = 'confluence/dosearchsite.action';
+}
+else {
+  // Parse the links in the head to fetch the shortURL for this page.
+  document.head = document.head || document.getElementsByTagName('head')[0]; //The 'or' fetching is needed cuz IE stinks.
+  var links = document.head.getElementsByTagName('link');
+  for(var link in links){
+    if(links.hasOwnProperty(link)){
+        var l = links[link];
+        if(l.rel === 'shortlink'){
+          shorturllink = l.href.slice(18);  // slicing at 18 to take off the "http://kb.mit.edu/" part.
+        }
+    }
+  }
+}
+
+  var _gaq = [];
+  _gaq.push(['_setAccount', 'UA-16860187-1']);
+  _gaq.push(['_trackPageview', shorturllink]);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<fieldset class="hidden parameters">
+    <input type="hidden" id="statusDialogHeading" value="What are you working on?">
+    <input type="hidden" id="statusDialogAccessibilityLabel" value="Enter your status (140 character limit)">
+    <input type="hidden" id="statusDialogLatestLabel" value="Last update:">
+    <input type="hidden" id="statusDialogUpdateButtonLabel" value="Update">
+    <input type="hidden" id="statusDialogCancelButtonLabel" value="Cancel">
+</fieldset>
+
+<fieldset class="hidden parameters">
+    <input type="hidden" id="globalSettingsAttachmentMaxSize" value="52428800">
+    <input type="hidden" id="userLocale" value="en_GB">
+    <input type="hidden" id="staticResourceUrlPrefix" value="/confluence/s/en/2171/1/_">
+    <input type="hidden" id="contextPath" value="/confluence">
+</fieldset>
+
+    
+
+
+<!--themebody.vm-->
+<script type="text/javascript" language="JavaScript">
+</script>
+<table align="left" width="100%" cellspacing="0" cellpadding="0" class="atb-shell" id="com-atlassian-confluence">
+    <tr>
+        <td style="vertical-align:top;"><div class="atb-p1"><div class="atb-p2"><div class="atb-p3">
+            <table class="layout atb-page" width="100%" height="100%" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td class="layout atb-upper"><div class="atb-u1"><div class="atb-u2">
+                            <table width="100%" cellpadding="0" cellspacing="0">
+                                <tr><td id="atb-header" class="layout atb-header"><div id="atb-headerdiv" class="layout atb-headerdiv">  
+<style type="text/css">
+#nav_header {
+    width:100%;
+	height:35px;
+    background-color:#444;
+	color:#bababa;
+    background-image: -ms-linear-gradient(top, #444444 50%, #222222 100%); /* IE10 */
+    background-image: -moz-linear-gradient(top, #444444 50%, #222222 100%); /* Mozilla Firefox */
+    background-image: -o-linear-gradient(top, #444444 50%, #222222 100%); /* Opera */
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.5, #444444), color-stop(1, #222222)); /* Webkit (Safari/Chrome 10) */
+    background-image: -webkit-linear-gradient(top, #444444 50%, #222222 100%); /* Webkit (Chrome 11+) */
+    background-image: linear-gradient(top, #444444 50%, #222222 100%); /* Proposed W3C Markup */
+}
+#nav_header a { color:#fff; text-decoration:none; }
+</style>
+
+<div id="nav_header">
+    <div style="width:900px; padding-top:7px; margin:auto;">
+	    <div style="float:left;">
+            <a href="http://ist.mit.edu">&#171;&nbsp;MIT Information Systems & Technology website</a>
+        </div>
+        <div style="float:right;">
+            Welcome back, 
+	                    &nbsp;&#8226;&nbsp;
+	        <a href="/confluence/login.action?os_destination=/display/category/Certificates">Log In</a>            &nbsp;&#8226;&nbsp;<a href="/confluence/display/handbook/The+Knowledge+Base+Handbook">Knowledge Base Handbook</a>
+        </div>
+	</div>
+</div>
+
+
+
+
+<style type="text/css">
+#header_bottom {
+    width:100%;
+    height:5px;
+    margin:0;
+    background-color:#C6C6C4;
+    background-image: -ms-linear-gradient(top, #C6C6C4 0%, #FFFFFF 100%); /* IE10 */
+    background-image: -moz-linear-gradient(top, #C6C6C4 0%, #FFFFFF 100%); /* Mozilla Firefox */
+    background-image: -o-linear-gradient(top, #C6C6C4 0%, #FFFFFF 100%); /* Opera */
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #C6C6C4), color-stop(1, #FFFFFF)); /* Webkit (Safari/Chrome 10) */
+    background-image: -webkit-linear-gradient(top, #C6C6C4 0%, #FFFFFF 100%); /* Webkit (Chrome 11+) */
+    background-image: linear-gradient(top, #C6C6C4 0%, #FFFFFF 100%); /* Proposed W3C Markup */ 
+}
+.rightfloat {
+    height:50px;
+    margin:20px 0 0 20px;
+    float: right;
+}
+.createButton {
+    border:2px solid #aeaaa7;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin-top:20px;
+    background-color:#e5e3e0;
+    color:#444;
+    padding:4px 7px 4px 7px;
+    font-family: "ProximaNovaBold" !important;
+    font-weight:bold;
+    font-size:13px !important;
+    float:right;
+}
+.rightfloat .searchQuery {
+    height: 32px;
+    width: 200px;
+    border:1px solid #aeaaa7;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-right: -4px;
+    padding: 0 5px 0 5px;
+}
+.rightfloat .searchButton {
+    height: 32px;
+    border: 1px solid #6f6f6f;
+    color:#ffffff;
+    background-color:#6f6f6f;
+    font-weight:bold;
+    -webkit-border-top-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 0 2px 2px 0;
+    margin-left:0;
+}
+.space-select {display:none;}
+</style>
+
+<div style="width:100%; height:70px; background-color:#f1efec; color:#222; display:inline-block;">
+    <div style="width:900px; margin:auto;">
+        <div style="margin-top:10px; float:left;">
+            <a href="/confluence/display/home/The+Knowledge+Base" style="color:#000000;"><img src="/confluence/plugins/servlet/builder/resource/KB/kb_button.png" style="float:left;margin-top:15px;" alt="KB chicklet"/>
+	    <span style="float:left; font-size:22px; margin:10px 0 0 10px;">The Knowledge Base</span></a>
+        </div>
+        <div class="rightfloat">
+            <a href="http://www.mit.edu" target="_blank"><img src="/confluence/plugins/servlet/builder/resource/KB/logo_mit.png" alt="MIT logo"/></a>
+        </div>
+
+        <div class="rightfloat">
+            <form method="get" class="confluence-searchbox adaptavist-searchbox marginlessForm " action="/confluence/dosearchsite.action">
+    <input type="hidden" name="key" value="conf_global" />
+    <input type="text" class="search-query searchQuery" name="searchQuery.queryString" id="searchQuery.queryString" />
+    <input type="hidden" name="searchQuery.spaceKey" value="conf_global" />
+    <input type="submit" class="search-button searchButton" value="Search" />
+</form>
+
+        </div>
+
+        <a href="/confluence/display/home/Create"><div class="createButton">
+            Create Article
+        </div></a>
+    </div>
+    <div style="clear:both;"></div>
+    <div id="header_bottom"></div>
+</div>
+ </div></td></tr>
+                                 <tr><td id="atb-menu" class="layout atb-menu"><div id="atb-menudiv" class="layout atb-menudiv">  <div id="menu1" class="menubar menubar1  ajs-drop-down">
+    <ul id="menu1-data" class="menulist">
+    <li class="menuitem "><a href="/confluence/display/category?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b"  rel=" home">Home</a></li>
+<li class="menuitem ">Edit<ul class="submenu "><li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/registry.png" style="width:16;height:16;vertical-align:absmiddle;" class="nopie"  title="registry" alt="registry"/>Administration<ul class="submenu "><li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/server_document.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="server_document" alt="server_document"/><a href="/confluence/spaces/viewspacesummary.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;key=category"  rel="nofollow">Advanced</a></li>
+  </ul></li>
+</ul></li>
+<li class="menuitem ">View<ul class="submenu "><li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/document.png" style="width:16;height:16;vertical-align:absmiddle;" class="nopie"  title="document" alt="document"/>This page<ul class="submenu "><li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/document_plain.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="document_plain" alt="document_plain"/><a href="/confluence/display/category/Certificates?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;decorator=normal"  rel="nofollow">Normal view</a></li>
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/printer.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="printer" alt="printer"/><a href="/confluence/display/category/Certificates?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;decorator=printable"  rel="nofollow">Printable view</a></li>
+  <li class="menu-separator "> </li>
+  
+  
+  
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/mail2.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="mail2" alt="mail2"/><a href="/confluence/pages/mailpage/mailpage.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;pageId=3017104"  id="mailPageLink" class="" rel="nofollow">Email this page</a></li>
+  </ul></li>
+ <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/documents.png" style="width:16;height:16;vertical-align:absmiddle;" class="nopie"  title="documents" alt="documents"/>Other pages<ul class="submenu "><li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/house.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="house" alt="house"/><a href="/confluence/display/category?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b"  rel=" home">Home page</a></li>
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/presentation.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="presentation" alt="presentation"/><a href="/confluence/dashboard.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b"  rel="">Dashboard</a></li>
+  <li class="menu-separator "> </li>
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/news.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="news" alt="news"/><a href="/confluence/pages/viewrecentblogposts.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;key=category"  rel="">News</a></li>
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/document_new.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="document_new" alt="document_new"/><a href="/confluence/pages/recentlyupdated.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;key=category"  rel="">Recent updates</a></li>
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/magic-wand.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="magic-wand" alt="magic-wand"/><a href="/confluence/dashboard/configurerssfeed.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b"  rel="">RSS feed builder</a></li>
+  <li class="menu-separator "> </li>
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/index.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="index" alt="index"/><a href="/confluence/pages/listpages-alphaview.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;key=category"  rel=" index">Index</a></li>
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/document_into.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="document_into" alt="document_into"/><a href="/confluence/pages/listpages-dirview.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;key=category&amp;openId=3017104"  rel="">Site map</a></li>
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/bookmark.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="bookmark" alt="bookmark"/><a href="/confluence/labels/listlabels-heatmap.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;key=category"  rel="">Labels</a></li>
+  <li class="menu-separator "> </li>
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/paperclip.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="paperclip" alt="paperclip"/><a href="/confluence/spaces/listattachmentsforspace.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;key=category"  rel="nofollow">Attachments index</a></li>
+  
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/users3.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="users3" alt="users3"/><a href="/confluence/browsepeople.action?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b"  rel="">People Directory</a></li>
+ </ul></li>
+ <li class="menu-separator "> </li>
+ <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/user1.png" style="width:16;height:16;vertical-align:absmiddle;" class="nopie"  title="user1" alt="user1"/>Account<ul class="submenu "><li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/user1_into.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="user1_into" alt="user1_into"/><a href="/confluence/login.action?os_destination=%2Fdisplay%2Fcategory%2FCertificates&amp;atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b"  rel="nofollow">Log in</a></li>
+  <li class="menu-separator "> </li>
+  
+  <li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/clock.png" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="clock" alt="clock"/><a href="javascript:void(window.open('/confluence/users/viewuserhistory.action','user_history', 'width=620, height=200, resizable'));"  rel="nofollow">History</a></li>
+  
+ </ul></li>
+ <li class="menu-separator "> </li><li class="menuitem "><img src="/confluence/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/checkbox-1.gif" style="width:16px;height:16px;vertical-align:absmiddle;" class="nopie" title="icon" alt="icon"/><a href="/confluence/display/category/Certificates?atl_token=7fa998337ba7439816da01189c60a5a7fc7a624b&amp;showChildren=false"  rel="nofollow">Show children (7)</a></li>
+ 
+</ul></li>
+
+
+
+<li class="menuitem "><a href="javascript:void(window.open('/confluence/users/viewuserhistory.action','user_history', 'width=620, height=200, resizable'));"  rel="nofollow">History</a></li>
+    </ul>
+</div>
+<script type="text/javascript" language="JavaScript">
+
+jQuery(function($) {
+ $("#menu1")[0].hide=function(){};
+});
+
+function initmenu_1() {
+    if (window.DynarchMenu) {
+        var menuOpts={electric:250, tooltips:true, shadows:[4,6], smoothShadows:true, blink:false, lazy:false, setFocus:false, scrolling:true};
+        if (jQuery.browser.opera) menuOpts["scrolling"]=false;
+        document.getElementById("menu1-data").className="";
+        DynarchMenu.setup("menu1-data", menuOpts);
+    }
+}
+
+AJS.toInit(function() {window.setTimeout(initmenu_1,0)});
+
+</script>
+ </div></td></tr>
+                            </table></div></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="layout atb-lower"><div class="atb-l1"><div class="atb-l2">
+                            <table width="100%" cellpadding="0" cellspacing="0">
+                                <tr class="layout content-row">
+                                      <td rowspan="2" id="atb-leftSidebar" class="layout atb-sidebar atb-leftSidebar expanded"><div id="atb-leftSidebardiv" class="layout atb-sidebardiv atb-leftSidebardiv">
+                                             
+<div class="pagetree2 ">
+  <script type="text/javascript">
+    (function () {
+        function init() {
+            if (typeof(PageTreeManager)=="undefined") return setTimeout(init,250);
+            PageTreeManager.generateTree({id:"2162711", title:"The Knowledge Base",  type:"homepage",  tooltip:"Modified by 'jdreed' on 2012-09-13 19:50:23.0",  url:"/confluence/display/category/The+Knowledge+Base",  editPermission:false, createPermission:false, administerPermission:false},{target:"_self", showIcons:true, selectionMode:"node", autoCollapse:false, indent:true, showRoot:true, branchStyle:"", iconStyle:"computer", openpage:true, name:"", preload:['3017091','3017104'], allowdrag:false, sort:"id", reverse:false, titletip:false, iconpath:"/s/en/2171/1/4.2.3/_/download/resources/com.adaptavist.confluence.themes.sitebuilder:sitebuilder/icons/"},"/confluence").render();
+        }
+        init();
+    })();
+  </script>
+</div>
+                                     </div></td>
+                                     <td class="layout atb-titlecontent">
+                                        <div id="atb-content" class="layout atb-content"><div id="atb-contentdiv" class="layout atb-contentdiv">
+                                            <!--page.vmd-->
+    
+    
+        
+    
+    
+                    
+    
+<div id="content" class="page view">
+
+
+
+
+<div id="link-to-page-fields" class="hidden parameters">
+    <input type="hidden" id="linkToThisPageHeading" value="Link to this Page">
+    <input type="hidden" id="linkToThisPageLink" value="Link">
+    <input type="hidden" id="linkToThisPageTinyLink" value="Tiny Link">
+    <input type="hidden" id="linkToThisPageWikiMarkup" value="Wiki Markup">
+    <input type="hidden" id="linkToThisPageClose" value="Close">
+</div>
+<fieldset class="hidden parameters">
+    <input type="hidden" title="movePageDialogViewPageTitle" value="Move Page &ndash; &#8216;Certificates&#8217;">
+    <input type="hidden" title="movePageDialogEditPageTitle" value="Set Page Location">
+    <input type="hidden" title="movePageDialogMoveButton" value="Move">
+    <input type="hidden" title="movePageDialogCancelButton" value="Cancel">
+    <input type="hidden" title="movePageDialogBrowsePanelTip" value="Click to select the new parent page for this page and its children.">
+    <input type="hidden" title="movePageDialogSearchPanel" value="Search">
+    <input type="hidden" title="movePageDialogHistoryPanel" value="Recently Viewed">
+    <input type="hidden" title="movePageDialogHistoryNoResults" value="There were no recently viewed pages found.">
+    <input type="hidden" title="movePageDialogLocationPanel" value="Known Location">
+    <input type="hidden" title="movePageDialogLocationNotFound" value="The specified page was not found.">
+    <input type="hidden" title="movePageDialogBrowsePanel" value="Browse">
+    <input type="hidden" title="movePageDialogPanelLoadErrorMsg" value="Error reading the panel content from the server.">
+    <input type="hidden" title="movePageDialogPanelLoadErrorTip" value="You could try reloading the page and launching the dialog again.">
+    <input type="hidden" title="movePageDialogPanelLoadErrorStatus" value="HTTP Status">
+    <input type="hidden" title="movePageDialogNoSelectionErrorMsg" value="You must make a selection in the tree before you can move the page.">
+    <input type="hidden" title="movePageDialogSearchError" value="Failed to retrieve search results from the server.">
+    <input type="hidden" title="movePageDialogSearchNoResults" value="There were no pages found containing <b>{0}</b>.">
+    <input type="hidden" title="movePageDialogSearchResultCount" value="Showing <b>{0}</b>-<b>{1}</b> of <b>{2}</b> pages containing <b>{3}</b>.">
+    <input type="hidden" title="movePageDialogMoveFailed" value="Move failed. There was a problem contacting the server.">
+    <input type="hidden" title="movePageDialogCannotChangeSpace" value="You cannot move this page to another space because you do not have permission to remove it from this space.">
+    <input type="hidden" title="pageTitle" value="Certificates"/>
+    <input type="hidden" title="parentPageTitle" value="Accounts, Authentication and Passwords"/>
+    <input type="hidden" title="fromPageTitle" value=""/>
+    <input type="hidden" title="spaceKey" value="category"/>
+    <input type="hidden" title="spaceName" value="Category"/>
+    <input type="hidden" title="movePageDialogInvalidLocation" value="You cannot move a page to be underneath itself or its children."/>
+    <input type="hidden" title="movePageDialogOrderingTitle" value="Page Ordering"/>
+    <input type="hidden" title="movePageDialogBackButton" value="Back"/>
+    <input type="hidden" title="movePageDialogMoveAndOrderButton" value="Reorder"/>
+    <input type="hidden" title="movePageDialogNextButton" value="Move"/>
+</fieldset>
+
+<script type="text/x-template" title="movePageDialog">
+    <div class="row information">
+        <div class="inner">
+            <div class="element">
+                Specify the new parent page for this page and its children by space and title.
+            </div>
+        </div>
+    </div>
+    <div class="form">
+        <fieldset>
+                
+
+    <legend class="assistive"><span>Change the Parent Page to a Known Page</span></legend>
+            <div class="row">
+                <label for="new-space">New space:</label>
+                <div class="value new-space-value">
+                    <input id="new-space-key" name="new-space-key" type="hidden" value="category">
+                                            <span class="space-input">
+                            <input id="new-space" name="new-space" value="Category" disabled="disabled">
+                        </span>
+                        <span class="description warning">You cannot move this page to another space because you do not have permission to remove it from this space.</span>
+                                        <div class="new-space-dropdown aui-dd-parent autocomplete"></div>
+                </div>
+            </div>
+            <div class="row">
+                <label for="new-parent-page">New parent page:</label>
+                <div class="value new-parent-page-value">
+                    <span class="page-input">
+                        <input id="new-parent-page" name="new-parent-page" value="Accounts, Authentication and Passwords">
+                    </span>
+                    <span class="description">Start typing a page title to see a list of suggestions.</span>
+                    <div class="new-parent-page-dropdown aui-dd-parent autocomplete"></div>
+                </div>
+            </div>
+        </fieldset>
+    </div>
+    <div class="location-info">
+        <div class="row">
+            <label>Current location:</label>
+            <div class="value breadcrumbs-container">
+                <div class="breadcrumbs-line">
+                    <ul id="current-parent-breadcrumbs" class="breadcrumbs">
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <label>New location:</label>
+            <div class="value breadcrumbs-container">
+                <div class="breadcrumbs-line">
+                    <ul id="new-parent-breadcrumbs" class="breadcrumbs">
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/x-template" title="movePageErrors">
+    <div id="move-errors" class="hidden warning"></div>
+</script>
+<script type="text/x-template" title="movePageBreadcrumb">
+    <li><a class="{2}" title="{3}" tabindex="-1"><span>{0}</span></a></li>
+</script>
+<script type="text/x-template" title="movePageBreadcrumbLoading">
+    <li class="loading"><span>Loading breadcrumbs&hellip;</span></li>
+</script>
+<script type="text/x-template" title="movePageBreadcrumbError">
+    <li class="warning last"><span>Error retrieving breadcrumbs.</span></li>
+</script>
+<script type="text/x-template" title="movePageNoMatchingPages">
+    <ol><li><span class="warning">No matching pages found.</span></li></ol>
+</script>
+<script type="text/x-template" title="movePageNoMatchingSpaces">
+    <ol><li><span class="warning">No matching spaces found.</span></li></ol>
+</script>
+
+<script type="text/x-template" title="movePageSearchPanel">
+    <div class="row information">
+        <div class="inner">
+            <div class="element">
+                Search for and select the new parent page for this page and its children.
+            </div>
+        </div>
+    </div>
+    <div id="move-page-search-container" class="row">
+        <div class="search-form">
+            <fieldset>
+                    
+
+    <legend class="assistive"><span>Search for a New Parent Page</span></legend>
+                    
+
+    <label  for="move-page-search-query" class="assistive">Search keywords</label>
+                <input class="search-query" id="move-page-search-query">
+                    
+
+    <label  for="move-page-search-space" class="assistive">Search in space</label>
+                                    <select id="move-page-search-space" class="search-space" disabled="disabled">
+                        <option value="category" selected="selected">Category</option>
+                    </select>
+                                <input type="button" value="Search">
+                                    <div class="description warning">You cannot move this page to another space because you do not have permission to remove it from this space.</div>
+                            </fieldset>
+        </div>
+        <div class="search-results">
+        </div>
+    </div>
+</script>
+<script type="text/x-template" title="movePageSearchResultsLoading">
+    <div class="searching">Searching…</div>
+</script>
+
+<script type="text/x-template" title="movePageHistoryPanel">
+    <div class="row information">
+        <div class="inner">
+            <div class="element">
+                Select the new parent page for this page and its children from your history.
+            </div>
+        </div>
+    </div>
+    <div id="move-page-search-container" class="row">
+        <div class="search-results">
+        </div>
+    </div>
+</script>
+<script type="text/x-template" title="movePageHistoryLoading">
+    <div class="searching">Loading…</div>
+</script>
+<script type="text/x-template" title="movePageBrowsePanel">
+    <div class="row information">
+        <div class="inner">
+            <div class="element">
+                Click to select the new parent page for this page and its children.
+            </div>
+        </div>
+    </div>
+    <div class="tree"></div>
+</script>
+<script type="text/x-template" title="movePagePanelLoading">
+    <span>Loading…</span>
+</script>
+<script type="text/x-template" title="movePageBrowsePanelSpace">
+    <ul><li id='tree-root-node-item' class='root-node-list-item'><a class='root-node' href='#'>{0}</a></li></ul>
+</script>
+<script type="text/x-template" title="orderingPagePanel">
+<div id="orderingPlaceHolder"></div>
+</script>
+<script type="text/x-template" title="reorderCheckbox">
+<span id="reorderRequirement"><input id="reorderCheck" type="checkbox" name="reorderFlag" title="Choose the position of this page within the list of child pages."/><label for="reorderCheck" title="Choose the position of this page within the list of child pages.">Reorder</label></span>
+</script>
+<script type="text/x-template" title="move-help-link">
+    <div class="dialog-help-link">
+            <a href="http://docs.atlassian.com/confluence/docs-35/Moving+a+Page" target="_blank">Help</a>
+    </div>
+</script>
+<script type="text/x-template" title="searchResultsGrid">
+    <table>
+        <thead>
+            <tr class="header">
+                <th class="search-result-title">Page Title</th>
+                <th class="search-result-space">Space</th>
+                <th class="search-result-date">Updated</th>
+            </tr>
+        </thead>
+    </table>
+</script>
+<script type="text/x-template" title="searchResultsGridCount">
+    <p class="search-result-count">{0}</p>
+</script>
+<script type="text/x-template" title="searchResultsGridRow">
+    <tr class="search-result">
+        <th class="search-result-title"><a href="{1}" class="content-type-{2}"><span>{0}</span></a></th>
+        <td class="search-result-space"><a class="space" href="/confluence/display/{4}/" title="{3}">{3}</a></td>
+        <td class="search-result-date"><span class="date" title="{6}">{5}</span></td>
+    </tr>
+</script>
+<!-- Start restrictions section -->
+<script type="text/x-template" title="page-permissions-div">
+<div id="page-permissions-div">
+    <div id="page-permissions-editor-form">
+
+                <div id="page-permissions-error-div" class="hidden">
+            <a href="#" id="permissions-error-div-close">Ok</a>
+            <div></div>
+        </div>
+
+                <div id="page-permissions-type-radios" class="page-permissions-label-rows">
+            <div>
+                <input id="restrictViewRadio" type="radio" checked="checked" name="pagePermissionTypeRadio" value="view"/>
+                <label for="restrictViewRadio">Restrict viewing of this page</label>
+                <input id="restrictEditRadio" type="radio" name="pagePermissionTypeRadio" value="edit"/>
+                <label for="restrictEditRadio">Restrict editing of this page</label>
+            </div>
+        </div>
+        <div id="page-permissions-input" class="page-permissions-label-rows">
+            <div class="page-permissions-label">To:</div>
+            <div id="page-permissions-chooser-box">
+                                <span id="page-permissions-choose-user" class="ajs-button">
+                    
+
+
+
+    
+
+
+
+<a href="#" id='userpicker-popup-link-image' onClick="var picker = window.open('/confluence/spaces/openuserpicker.action?key=category&amp;startIndex=0&amp;onPopupSubmit=AJS.PagePermissions.addUserPermissions', 'EntitiesPicker', 'status=yes,resizable=yes,top=100,left=200,width=700,height=680,scrollbars=yes'); picker.focus(); return false;"><img src="/confluence/s/en/2171/1/_/images/icons/user_16.gif" height=16 width=16 border=0 align="absmiddle"  title="Choose users" /></a>
+<a href="#" id='userpicker-popup-link-text' onClick="var picker = window.open('/confluence/spaces/openuserpicker.action?key=category&amp;startIndex=0&amp;onPopupSubmit=AJS.PagePermissions.addUserPermissions', 'EntitiesPicker', 'status=yes,resizable=yes,top=100,left=200,width=700,height=680,scrollbars=yes'); picker.focus(); return false;">Person...</a>
+
+
+                </span>
+                <span id="page-permissions-choose-group" class="ajs-button">
+                    
+
+
+
+    
+
+ 
+
+<a href="#" id='grouppicker-popup-link-image' onClick="var picker = window.open('/confluence/spaces/opengrouppicker.action?key=category&amp;startIndex=0&amp;actionName=dosearchgroups.action&amp;onPopupSubmit=AJS.PagePermissions.addGroupPermissions', 'EntitiesPicker', 'status=yes,resizable=yes,top=100,left=200,width=580,height=550,scrollbars=yes'); picker.focus(); return false;"><img src="/confluence/s/en/2171/1/_/images/icons/group_16.gif" height=16 width=16 border=0 align="absmiddle"  title="Choose groups" /></a>
+<a href="#" id='grouppicker-popup-link-text' onClick="var picker = window.open('/confluence/spaces/opengrouppicker.action?key=category&amp;startIndex=0&amp;actionName=dosearchgroups.action&amp;onPopupSubmit=AJS.PagePermissions.addGroupPermissions', 'EntitiesPicker', 'status=yes,resizable=yes,top=100,left=200,width=580,height=550,scrollbars=yes'); picker.focus(); return false;">Group...</a>
+
+
+                </span>
+            </div>
+            <div id="page-permissions-input-box">
+                                <span>
+                    <input type="text" id="page-permissions-names-input" class="input-placeholder" value="Enter user or group name" name="permissionNames" size="30" autocomplete="off"/>
+                </span>
+                <input
+    type="hidden"
+                            id="page-permissions-names-hidden"           />                <img height="16px" width="1px" src="/confluence/s/en/2171/1/_/images/border/spacer.gif"/>
+                <input type="button" id="add-typed-names" value="Restrict">
+            </div>
+        </div>
+    </div>
+    <div id="page-permissions-tables">
+        <div id="page-permissions-table-div">
+                        <table id="page-permissions-table" class="page-permissions-table">
+                <tr id="page-permissions-no-views" class="marker-row">
+                    <td colspan="3" class="page-permissions-marker-cell"><span>No view restrictions are defined for this page</span></td>
+                </tr>
+                <tr id="page-permissions-no-edits" class="marker-row">
+                    <td colspan="3" class="page-permissions-marker-cell"><span>No edit restrictions are defined for this page</span></td>
+                </tr>
+            </table>
+        </div>
+        <div id="page-inherited-permissions-table-div" class="hidden">
+            <span id="page-inherited-permissions-table-desc">
+                <a class="icon twisty-closed">Show/Hide</a>
+                <a id="toggle-inherited-permissions" title="Click to see inherited restrictions">This page has restricted parent pages. It can only be seen by users who can see those parent pages.</a>
+            </span>
+            <div id="page-inherited-permissions-tables" class="hidden page-inheritance-togglable"></div>
+        </div>
+    </div>
+</div>
+</script>
+
+<script type="text/x-template" title="permissions-row-template">
+    <tr class="permission-row">
+                                
+                <td class="page-permissions-marker-cell" width="20%">
+            <span>Viewing restricted to:</span>
+        </td>
+                <td class="permission-entity" nowrap="true" width="40%">
+            <span class="entity-container">
+                <img class="permission-entity-picture"/>
+                <span class="permission-entity-display-name"></span>
+                <span class="permission-entity-name-wrap">&nbsp;(<span class="permission-entity-name"></span>)</span>
+            </span>
+        </td>
+        <td class="permission-detail-column">
+            <div class="permission-remove-div">
+                <a href="#" class="remove-permission-link">Remove restriction</a>
+            </div>
+        </td>
+    </tr>
+</script>
+<script type="text/x-template" title="permissions-username-no-suggestion-template">
+    <ol>
+        <li><a href="#" class="message"><span>No matches</span></a></li>
+    </ol>
+</script>
+<script type="text/x-template" title="page-inherited-permissions-table-div-template">
+        <div class="page-inherited-permissions-owner-div">
+        <div class="page-inherited-permissions-table-desc">Viewing restrictions apply to “<a></a>”. In order to see “<span></span>”, a user must be in the following list of users and groups:</div>
+        <table class="page-permissions-table"></table>
+    </div>
+</script>
+<script type="text/x-template" title="page-restrictions-help-link">
+    <div class="dialog-help-link">
+            <a href="http://docs.atlassian.com/confluence/docs-35/Page+Restrictions" target="_blank">Help</a>
+    </div>
+</script>
+<!-- End restrictions section -->
+
+<fieldset class="hidden parameters">
+    <input type="hidden" title="spaceKeyEncoded" value="category">
+    <input type="hidden" title="spaceKeyDecoded" value="category">
+</fieldset>
+
+                      
+    
+     
+     <fieldset class="hidden parameters">
+                <input type="hidden" title="browsePageTreeMode" value="view">
+    </fieldset>
+    <div class="wiki-content">
+        <!-- wiki content -->
+            
+
+
+
+<h2><a name="Certificates-Articlesin%22Certificates%22"></a>Articles in "Certificates"</h2>
+<table class="tableview" width="100%">
+                        <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=4981263">&quot;cannot resolve network address for KDC in requested realm&quot; - Certificate or Kerberos ticket acquisitions</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=103317541">Can a parent use his or her child&#39;s MIT account?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/istcontrib/Certificates+Landing+Page">Certificates Landing Page</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/istcontrib/Check+for+the+MIT+CA">Check for the MIT CA</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/istcontrib/Create+a+new+login+or+reset+Keychain+for+Mac+OS+X">Create a new login or reset Keychain for Mac OS X</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/istcontrib/Export+or+Back+Up+Your+MIT+Personal+Certificates">Export or Back Up Your MIT Personal Certificates</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/istcontrib/Google+Chrome+-+Error+324+-+No+data+received">Google Chrome - Error 324 - No data received</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=3907272">How can I tell if I have certificates?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=42237953">How do I check certificate expiration dates?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=3903417">How do I get MIT personal certificates using the Google Chrome browser?</a>
+                                 <span class="smalltext">(Community Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=4272360">How do I modify the trust settings of the MIT CA file on Mac OS X?</a>
+                                 <span class="smalltext">(Community Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=3910228">How do I test my MIT personal certificate?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=40828949">I get a &quot;could not find page ca&quot; error getting a certificate</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=3908406">I just installed an MIT personal certificate and a message displayed, &quot;Your personal certificate has been installed, you should keep a backup copy of this certificate.&quot; Do I need to back up my certificate?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=4275303">I&#39;m trying to get my personal certificate and it says No Such User. Why?</a>
+                                 <span class="smalltext">(Community Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/istcontrib/Import+certificates+from+Firefox+into+Internet+Explorer">Import certificates from Firefox into Internet Explorer</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/mitcontrib/Installing+and+Configuring+Shibboleth+2.x+on+Mac+OS+X+10.6.x+Server">Installing and Configuring Shibboleth 2.x on Mac OS X 10.6.x Server</a>
+                                 <span class="smalltext">(Community Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/istcontrib/Migration+to+SHA-2+Certificate+Authority">Migration to SHA-2 Certificate Authority</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/istcontrib/Programs+that+causes+problems+with+X.509+certificates">Programs that causes problems with X.509 certificates</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/istcontrib/Set+Firefox+and-or+Internet+Explorer+to+prompt+for+a+password+for+certificate-protected+pages">Set Firefox and-or Internet Explorer to prompt for a password for certificate-protected pages</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=6751214">Should I Delete My Old or Expired Personal Certificate?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/display/mitcontrib/Use+curl+to+read+certificate+protected+web+pages">Use curl to read certificate protected web pages</a>
+                                 <span class="smalltext">(Community Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=6750648">What information do I enter to obtain an MIT personal certificate?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=3907139">What is a master password and Software Security Device?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=4264432">What is an MIT personal web certificate?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=3908944">What is stored in an MIT Personal Certificate?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=3908937">What is the signature (i.e., fingerprint) for the MIT CA certificate?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=5901781">Why do I see someone else&#39;s certificate in my Keychain?</a>
+                                 <span class="smalltext">(Community Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=3908938">Why do we need to use these certificates? Why can&#39;t we just use login and password?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+                <tr>
+            <td>
+                                 <span class="icon icon-page" title="Page">Page:</span>
+                         <a href="/confluence/pages/viewpage.action?pageId=3908328">Why, in my Macintosh login Keychain list, are there certificates for individuals other than myself? Does that mean they could get to secure web sites using my Mac?</a>
+                                 <span class="smalltext">(IS&amp;T Contributions)</span>
+             
+                                            </td>
+        </tr>
+            </table>
+
+
+
+<div class="panel" style="width:230px;background-color:#ffffff;border-color:ffffff;border-style:none;border-width:0px;position:relative;">
+    <a href="/confluence/pages/viewpage.action?pageId=150143045" name="create">
+      <div style="width:100%;height:1.8em;background:#99ccff; border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px;text-align:center;">
+        <span style="font-size:1em;font-weight:normal;color:#0011aa;">Can't find it?</span>
+      </div>
+    </a>
+</div>
+    </div>
+ <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://kb.mit.edu/confluence/display/category/Certificates"
+    dc:identifier="http://kb.mit.edu/confluence/display/category/Certificates"
+    dc:title="Certificates"
+    trackback:ping="http://kb.mit.edu/confluence/rpc/trackback/3017104"/>
+</rdf:RDF>
+-->
+</div>
+    
+
+
+
+    
+    
+
+    
+    
+    
+
+
+<script type="text/x-template" title="manage-watchers-dialog">
+<div class="dialog-content">
+    <div class="column page-watchers">
+        <h3>Watching this page</h3>
+        <p class="description">These people are notified when the page is changed. You can add or remove people from this list.</p>
+        <form action="/confluence/json/addwatch.action" method="POST">
+                <input type="hidden" name="atl_token" value="7fa998337ba7439816da01189c60a5a7fc7a624b">
+            <input type="hidden" name="pageId" value="3017104"/>
+            <input type="hidden" id="add-watcher-username" name="username" value=""/>
+            <label for="add-watcher-user">User</label>
+            <input id="add-watcher-user" name="userFullName" type="search" class="autocomplete-user"
+               value="" placeholder="Full name or username" autocomplete="off"
+               data-max="10" data-target="#add-watcher-username" data-dropdown-target="#add-watcher-dropdown"
+               data-template="{title}" data-none-message="No matching users found.">
+            <input id="add-watcher-submit" type="submit" name="add" value="Add">
+            <div id="add-watcher-dropdown" class="aui-dd-parent autocomplete"></div>
+            <div class="status hidden"></div>
+        </form>
+        <ul class="user-list">
+            <li class="loading">Loading&hellip;</li>
+            <li class="no-users hidden">No page watchers</li>
+        </ul>
+    </div>
+    <div class="column space-watchers">
+        <h3>Watching this space</h3>
+        <p class="description">These people are notified when any content in the space is changed. You cannot modify this list.</p>
+        <ul class="user-list">
+            <li class="loading">Loading&hellip;</li>
+            <li class="no-users hidden">No space watchers</li>
+        </ul>
+    </div>
+</div>
+</script>
+<script type="text/x-template" title="manage-watchers-user">
+    <li class="watch-user">
+        <img class="profile-picture confluence-userlink" src="{iconUrl}" data-username="{username}">
+        <a class="confluence-userlink" href="{url}" data-username="{username}">{fullName} <span class="username">({username})</span></a>
+        <span class="remove-watch" title="Remove"
+            data-username="{username}">Remove</span>
+    </li>
+</script>
+<script type="text/x-template" title="manage-watchers-help-link">
+    <div class="dialog-help-link">
+            <a href="http://docs.atlassian.com/confluence/docs-35/Managing+Watchers" target="_blank">Help</a>
+    </div>
+</script>
+
+<!--END page.vmd-->
+                                        </div></div>
+                                    </td>
+                                       <td rowspan="2" id="atb-rightSidebar" class="layout atb-sidebar atb-rightSidebar expanded"><div  id="atb-rightSidebardiv" class="layout atb-sidebardiv atb-rightSidebardiv">
+                                         
+
+
+<style type="text/css">
+#green_arrow {
+    float:right;
+    border:0;
+    height:100px;
+    width:22px; 
+    display:block;
+    padding-top: 20px;
+}
+#green_box {
+    border:2px solid #9AC547;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    height: 100px;
+    width: 212px;
+    float:right; 
+    display:block;
+    margin: 0 0 0 -4px;
+}
+#green_box h2, #green_box h4 {
+    color: #444444;
+    margin:5px 0 0 10px;
+}
+#green_box h4 {
+    color:#5D5D5D;
+    font-size:14px;
+    font-weight: 500;
+}
+</style>
+
+
+
+
+  
+<style type="text/css">
+.share_row {
+    margin-bottom: 6px;
+    width:100%;
+    display: inline-block;
+}
+.share_row a {
+    float:left;
+    margin: 0;
+}
+.share_row a img {
+    float:left;
+    margin: 3px 10px 0 0;
+}
+</style>
+
+<div id="share">
+  <div class="share_row">
+    <a href="http://kb.mit.edu/confluence/x/kAku"><img src="/confluence/plugins/servlet/builder/resource/KB/icon_shortlink.gif" alt="Share"/></a>
+    <div style="float:left; width:80%;">Short URL for sharing<br/><strong style="font-size:12px;">Certificates</strong><br/><a href="http://kb.mit.edu/confluence/x/kAku">http://kb.mit.edu/confluence/x/kAku</a></div>
+  </div>
+</div>
+<div style="clear:both;"></div>
+<hr noshade size="1" style="width:100%; color:#CCCCCC;"/>
+
+
+
+<style type="text/css">
+#last_mod {
+    padding: 0 5px 5px 5px;
+    color: #6F6F6F;
+}
+#last_mod h4 {
+    color:#000;
+}
+</style>
+
+<div id="last_mod">
+<h4>Last Modified:</h4>March 15, 2011<br/>
+</div>
+<div style="clear:both;"></div>
+
+
+
+
+<style type="text/css">
+#get_help {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #F1EFEC;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+#get_help h3 {
+    margin:0 0 7px 0;
+    font-family:"ProximaNovaBold";
+    font-size:16px;
+}
+#get_help a {
+    color:#0073E9;
+}
+</style>
+
+
+<div id="get_help">
+<h3>Get Help</h3>
+<a href="http://ist.mit.edu/help">Request help</a><br/>from the Help Desk<br/>
+<div style="width:100%;height:10px;display:block;"></div>
+<a href="http://ist.mit.edu/security/report">Report a security incident</a><br/>to the Security Team
+</div>
+                                     </div></td>
+                                </tr>
+                                <tr><td id="atb-footnote" class="layout atb-footnote"><div id="atb-footnotediv" class="layout atb-footnotediv">   </div></td></tr>
+                            </table>
+                        </div></div></td>
+                    </tr>
+                </tbody>
+            </table></div></div></div>
+            <script type="text/javascript" language="JavaScript">
+                 Visibility.restoreSidebar('leftSidebar',false,false);
+                  Visibility.restoreSidebar('rightSidebar',false,false);
+             </script>
+        </td>
+    </tr>
+    <tr>
+        <td id="attribution" class="attribution" align="center"><div>
+            <a href="https://www.adaptavist.com/">Adaptavist Theme Builder</a> (4.2.3) Powered by <a href="http://www.atlassian.com/software/confluence" class="hover-footer-link">Atlassian Confluence</a> 3.5.13, the <a href="2171" class="hover-footer-link">Enterprise Wiki</a>
+        </div></td>
+    </tr>
+</table>
+<!--END themebody.vm-->
+
+
+<!--footer.vmd-->
+<script type="text/javascript">
+var domainName = "http://kb.mit.edu/confluence";
+var entityId = "3017104";
+var spaceKey = "category";
+</script>
+<!--[if gte IE 5.5000]>
+<script type="text/javascript">
+    if (window.DynarchMenu) {
+        DynarchMenu.preloadImages(new RegExp("^/hmenu/"));
+    }
+</script>
+<![endif]-->
+
+
+<!--END footer.vmd-->
+</body>
+</html>
