@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html>
+
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                              K E Y   B A S E
+
+                            crypto for everyone
+
+                        because no one we know ever
+                      seems to have a public key. :-(
+
+     No Google Analytics or other 3rd party hosted script tags on Keybase.
+
+     And this has the added bonus that we'll never be able to serve ad code.
+
+                                    \o/  \o/
+                                  keybase team
+
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+  <head>
+    <title>Keybase</title>
+    <meta       name="viewport"    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link       href="/_/brew/_/b492a241/sitewide-css.css"      rel="stylesheet">
+    
+    <script      src="/_/brew/_/1db24bdc/sitewide-js.js"></script>
+
+    <meta    charset="UTF-8" />
+    <meta       name="Description" content="Public key crypto for everyone, publicly auditable proofs of identity.">
+    
+    <meta property="og:image"        content="https://keybase.io/images/icons/ms-icon-310x310.png">
+    <meta property="og:image:width"  content="310">
+    <meta property="og:image:height" content="310">
+      
+    <script>
+    window.csrf_token="lgHZIDM2ZjNkODg2OThiZDE2MjIwNjk4OWY0OWY0ODk1ZTA4zlu50V3OAxcEAMDEINX88XAjYvlMwMHFsttT/lXhb4Z8VOB0+FOssSUwJKPG";
+    </script>
+  </head>
+
+  <body id="">
+  <div class="run-mode run-mode-prod">
+    <div class="grid-monitor"> 
+      <input id="url_base" type="hidden" value="https://keybase.io/"/>
+
+        <div id="navbar-top">
+          <div class="navbar navbar-fixed-top navbar-default" role="navigation" data-active-tab="">
+
+            <div class="container navbar-container">
+              <div class="row">
+
+                <div class="col-xs-2 col-sm-1">
+                  <div class="navbar-header">
+                    <div class="navbar-brand">
+                      <a href="/" aria-label="home">
+                        <img src="/images/icons/icon-keybase-logo-48.png" srcset="/images/icons/icon-keybase-logo-48@2x.png 2x" width="48" height="48" />
+                      </a>
+                    </div>
+                    <div class="staging-notice">Keybase Staging Server</div>
+                  </div>
+                </div>
+
+                <div class="col-xs-10 col-sm-5">
+                  <div class="nav-search-wrapper">
+                    <div class="input-group form-group">
+                      <input type="text" class="form-control auto-focus nav-search-input 1pw-reject" data-focus-priority="0" placeholder="Search Keybase"
+                      autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false">
+                      <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-6">    
+
+      <table class="nav navbar-right navbar-buttons pull-right">
+        <tr>
+          <td class="nav-job-link  hidden-sm hidden-xs"><div class="" title="Jobs">
+            
+            <span class="label label-info hidden-sm hidden-xs">New</span> <a href="/jobs" style="font-size:13px;">Keybase is hiring</a>
+          </div></td>
+
+
+        
+            <td>
+              
+              <a href="/download" class="btn btn-primary">Install</a>
+            </td>
+            <td><a onclick="return false;" href="#_" class="navbar-link link-login ">Login</a></td>
+            <td class="nav-btn "><div class="auto-tooltip" title="Encrypt"><a href="/encrypt" aria-label="encrypt"><i class="fa fa-lock"></i></a></div></td>
+            <td class="nav-btn " ><div class="auto-tooltip" title="Verify"><a href="/verify" aria-label="verify"><i class="fa fa-check"></i></a></div></td>
+            <td class="hidden-xs nav-btn active"   ><div class="auto-tooltip" title="Docs"><a href="/docs" aria-label="docs"><i class="fa fa-question"></i></a></div></td>
+          
+        </tr>
+      </table>
+</div>
+
+                
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+      
+      <div class="modal modal-primary" id="shared-modal" data-backdrop="static">
+      </div>
+
+      
+      <div class="content">
+        <div class="container page-documentation">
+
+  <div class="row">
+    <div class="col-sm-3 doc-toc">
+        
+<p class="breadcrumb-line"><a href="/docs">Docs</a> &gt; Server security</p>
+
+        
+    
+        <h3>Server security</h3>
+      
+    <ul>
+    
+          <li class=" "><span class="bullet">•</span><a href="/docs/server_security">Overview</a></li>
+        
+          <li class="active "><span class="bullet">•</span><a href="/docs/sigchain">Meet your sigchain</a></li>
+        
+          <li class=" "><span class="bullet">•</span><a href="/docs/server_security/following">Understanding following</a></li>
+        
+          <li class=" "><span class="bullet">•</span><a href="/docs/server_security/merkle_root_in_bitcoin_blockchain"><span class="label label-primary">new</span> The <i class="fa fa-bitcoin"></i> blockchain</a></li>
+        
+    </ul>
+  
+    
+        <h3>Our public keys</h3>
+      
+    <ul>
+    
+          <li class=" "><span class="bullet">•</span><a href="/docs/server_security/our_code_signing_key">Code <i class="fa fa-key"></i></a></li>
+        
+          <li class=" "><span class="bullet">•</span><a href="/docs/server_security/our_merkle_key">Merkle root <i class="fa fa-key"></i></a></li>
+        
+          <li class=" "><span class="bullet">•</span><a href="/docs/server_security/our_merkle_bitcoin_key">Bitcoin <i class="fa fa-key"></i></a></li>
+        
+          <li class=" "><span class="bullet">•</span><a href="https://keybase.io/max">Max's personal <i class="fa fa-key"></i></a></li>
+        
+          <li class=" "><span class="bullet">•</span><a href="https://keybase.io/chris">Chris's personal <i class="fa fa-key"></i></a></li>
+        
+    </ul>
+  
+
+
+    </div>
+
+    <div class="col-sm-9 doc-main kb-main-card">
+
+  <h2 id="meet-your-sigchain-and-everyone-else-s-">Meet your sigchain (and everyone else’s)</h2>
+<p>Every Keybase account has a public signature chain (called a <em>sigchain</em>), which is an ordered list of statements about how the account has changed over time. When you <a href="/docs/server_security/following">follow</a> someone, add a key, or connect a website, your client signs a new statement (called a <em>link</em>) and publishes it to your sigchain.</p>
+<p>As JSON (some fields removed), a sigchain looks like this:</p>
+<pre><code class="lang-json">[
+    {
+        "<span class="hljs-attribute">body</span>": <span class="hljs-value">{
+            "<span class="hljs-attribute">device</span>": <span class="hljs-value">{ "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"squares"</span> </span>}</span>,
+            "<span class="hljs-attribute">key</span>": <span class="hljs-value">{ "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01208…"</span> </span>}</span>,
+            "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"eldest"</span>
+        </span>}</span>,
+        "<span class="hljs-attribute">prev</span>": <span class="hljs-value"><span class="hljs-literal">null</span></span>,
+        "<span class="hljs-attribute">seqno</span>": <span class="hljs-value"><span class="hljs-number">1</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">body</span>": <span class="hljs-value">{
+            "<span class="hljs-attribute">device</span>": <span class="hljs-value">{ "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"squares"</span> </span>}</span>,
+            "<span class="hljs-attribute">key</span>": <span class="hljs-value">{ "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01208…"</span> </span>}</span>,
+            "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"web_service_binding"</span></span>,
+            "<span class="hljs-attribute">service</span>": <span class="hljs-value">{ "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"github"</span></span>, "<span class="hljs-attribute">username</span>": <span class="hljs-value"><span class="hljs-string">"keybase"</span> </span>}
+        </span>}</span>,
+        "<span class="hljs-attribute">prev</span>": <span class="hljs-value"><span class="hljs-string">"038cd…"</span></span>,
+        "<span class="hljs-attribute">seqno</span>": <span class="hljs-value"><span class="hljs-number">2</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">body</span>": <span class="hljs-value">{
+            "<span class="hljs-attribute">device</span>": <span class="hljs-value">{ "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"rectangles"</span> </span>}</span>,
+            "<span class="hljs-attribute">key</span>": <span class="hljs-value">{ "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01208…"</span> </span>}</span>,
+            "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"sibkey"</span></span>,
+            "<span class="hljs-attribute">sibkey</span>": <span class="hljs-value">{ "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01204…"</span></span>, "<span class="hljs-attribute">reverse_sig</span>": <span class="hljs-value"><span class="hljs-string">"g6Rib…"</span> </span>}</span>,
+        }</span>,
+        "<span class="hljs-attribute">prev</span>": <span class="hljs-value"><span class="hljs-string">"192fe…"</span></span>,
+        "<span class="hljs-attribute">seqno</span>": <span class="hljs-value"><span class="hljs-number">3</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">body</span>": <span class="hljs-value">{
+            "<span class="hljs-attribute">device</span>": <span class="hljs-value">{ "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"squares"</span> </span>}</span>,
+            "<span class="hljs-attribute">key</span>": <span class="hljs-value">{ "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01208…"</span> </span>}</span>,
+            "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"track"</span></span>,
+            "<span class="hljs-attribute">track</span>": <span class="hljs-value">{
+                "<span class="hljs-attribute">basics</span>": <span class="hljs-value">{ "<span class="hljs-attribute">username</span>": <span class="hljs-value"><span class="hljs-string">"cecileb"</span> </span>}</span>,
+                "<span class="hljs-attribute">key</span>": <span class="hljs-value">{ "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01014…"</span> </span>}</span>,
+                "<span class="hljs-attribute">remote_proofs</span>": <span class="hljs-value">[
+                    {
+                        "<span class="hljs-attribute">ctime</span>": <span class="hljs-value"><span class="hljs-number">1437414090</span></span>,
+                        "<span class="hljs-attribute">remote_key_proof</span>": <span class="hljs-value">{
+                            "<span class="hljs-attribute">check_data_json</span>": <span class="hljs-value">{
+                                "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"twitter"</span></span>,
+                                "<span class="hljs-attribute">username</span>": <span class="hljs-value"><span class="hljs-string">"cecileboucheron"</span>
+                            </span>}</span>,
+                        }</span>,
+                    },
+                ]
+            </span>}</span>,
+        }</span>,
+        "<span class="hljs-attribute">prev</span>": <span class="hljs-value"><span class="hljs-string">"9fcc8…"</span></span>,
+        "<span class="hljs-attribute">seqno</span>": <span class="hljs-value"><span class="hljs-number">3</span></span>,
+    }
+]
+</code></pre>
+<p>This sigchain is from a user who…</p>
+<ol>
+<li>Signed up for Keybase from a device called “squares” which generated a <a href="http://nacl.cr.yp.to/">NaCl</a> device key</li>
+<li>Proved their GitHub account</li>
+<li>Used squares to add another device called “rectangles” with its own key</li>
+<li>Used rectangles to follow <a href="/cecileb">cecileb</a></li>
+</ol>
+<p>You can try browsing a real sigchain <a href="/max/sigchain">online</a> or through <a href="/_/api/1.0/sig/get.json?uid=dbb165b7879fe7b1174df73bed0b9500">the API</a>.
+ Since sigchains are <strong>public</strong>, you can do this for any user on Keybase!</p>
+<p>Every sigchain link is signed by one of the user’s keys and includes a sequence number and the hash of the previous link. Because of this, the server can’t create links on its own or omit links without invalidating the whole sigchain. We use a <a href="/docs/server_security">public Merkle tree</a> to make it difficult for us to roll back a sigchain to an earlier state without being noticed.</p>
+<h2 id="sibkeys">Sibkeys</h2>
+<p>A Keybase account can have any number of sibling keys (called <em>sibkeys</em>) which can all sign links. This is different from PGP, which has a “master key” that you’re expected to keep tucked away in a fireproof safe — because if you misplace a device that has a copy of it, your only option is to <a href="http://www.apache.org/dev/key-transition.html">revoke the whole key and start from scratch</a>. We discuss this problem in <a href="/blog/keybase-new-key-model">a blog post</a>.</p>
+<p>You add and remove sibkeys by adding links to your sigchain. Since every link is checked against the state of the account <em>at that point in the sigchain</em>, old links remain valid even if their signing keys are revoked later. Revoking a key doesn’t affect your identity proofs, other keys, or followers.</p>
+<h2 id="playback">Playback</h2>
+<p>To find the current state of an account (e.g. when you run <code>keybase id max</code>), the client starts out assuming that the key specified for the account in the Merkle tree is a sibkey, then <em>plays back</em> the sigchain link by link, keeping track of valid sibkeys and the effects of other links.</p>
+<p><em>An implementation detail: since accounts can be reset, it actually starts playback at the most recent link whose <code>eldest_kid</code> matches the one in the Merkle tree.</em></p>
+<h2 id="link-structure">Link structure</h2>
+<p>A complete version of the first link from the sigchain above looks like this:</p>
+<pre><code class="lang-json">{
+    "<span class="hljs-attribute">body</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">device</span>": <span class="hljs-value">{
+            "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-string">"ff07c…"</span></span>,
+            "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01208…"</span></span>,
+            "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"squares"</span></span>,
+            "<span class="hljs-attribute">status</span>": <span class="hljs-value"><span class="hljs-number">1</span></span>,
+            "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"desktop"</span>
+        </span>}</span>,
+        "<span class="hljs-attribute">key</span>": <span class="hljs-value">{
+            "<span class="hljs-attribute">host</span>": <span class="hljs-value"><span class="hljs-string">"keybase.io"</span></span>,
+            "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01208…"</span></span>,
+            "<span class="hljs-attribute">uid</span>": <span class="hljs-value"><span class="hljs-string">"e560f…"</span></span>,
+            "<span class="hljs-attribute">username</span>": <span class="hljs-value"><span class="hljs-string">"sidney"</span>
+        </span>}</span>,
+        "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"eldest"</span></span>,
+        "<span class="hljs-attribute">version</span>": <span class="hljs-value"><span class="hljs-number">1</span>
+    </span>}</span>,
+    "<span class="hljs-attribute">client</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"keybase.io go client"</span></span>,
+        "<span class="hljs-attribute">version</span>": <span class="hljs-value"><span class="hljs-string">"1.0.0"</span>
+    </span>}</span>,
+    "<span class="hljs-attribute">ctime</span>": <span class="hljs-value"><span class="hljs-number">1443241228</span></span>,
+    "<span class="hljs-attribute">expire_in</span>": <span class="hljs-value"><span class="hljs-number">504576000</span></span>,
+    "<span class="hljs-attribute">merkle_root</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">ctime</span>": <span class="hljs-value"><span class="hljs-number">1443217312</span></span>,
+        "<span class="hljs-attribute">hash</span>": <span class="hljs-value"><span class="hljs-string">"06de9…"</span></span>,
+        "<span class="hljs-attribute">seqno</span>": <span class="hljs-value"><span class="hljs-number">292102</span>
+    </span>}</span>,
+    "<span class="hljs-attribute">prev</span>": <span class="hljs-value"><span class="hljs-literal">null</span></span>,
+    "<span class="hljs-attribute">seqno</span>": <span class="hljs-value"><span class="hljs-number">1</span></span>,
+    "<span class="hljs-attribute">tag</span>": <span class="hljs-value"><span class="hljs-string">"signature"</span>
+</span>}
+</code></pre>
+<p>Some properties are common to every type of link. Here’s an overview:</p>
+<ul>
+<li><p><code>body</code> – Information specific to the type of link, plus some common properties:</p>
+<ul>
+<li><code>type</code> – The type of the link</li>
+<li><code>device</code> – Optional details about the device that made the link</li>
+<li><p><code>key</code> – Information about the key that will sign the link. Contains these properties:</p>
+<ul>
+<li><code>host</code> – Currently always “keybase.io”</li>
+<li><code>eldest_kid</code> – The <a href="/docs/api/1.0/kid">KID</a> of the eldest key in this subchain. If missing, then eldest key is assumed to be the signing key (helps to identify account resets)</li>
+<li><code>kid</code> – The key’s KID</li>
+<li><code>key_id</code>: For a PGP key, the last eight bytes of its fingerprint (legacy)</li>
+<li><code>fingerprint</code>: For a PGP key, its full fingerprint</li>
+<li><code>uid</code>: The user ID of the sigchain’s owner</li>
+<li><code>username</code>: The username of the sigchain’s owner</li>
+</ul>
+<p><em>When a PGP key is being introduced or updated, there can also be a <code>full_hash</code> property which is a SHA-256 hash of an armored copy of the public key. This pins the key to a specific version.</em></p>
+</li>
+</ul>
+</li>
+<li><code>client</code> – Optional version information about the client that made the link</li>
+<li><code>ctime</code> – When the link was created, as a <a href="https://en.wikipedia.org/wiki/Unix_time">Unix timestamp</a></li>
+<li><code>expire_in</code> – How long the statement made by the link should be considered valid, in seconds, or <code>0</code> if it doesn’t expire</li>
+<li><code>merkle_root</code> – The creation time, hash, and sequence number of the Merkle tree root at the time the link was created</li>
+<li><code>prev</code> – The hash of the previous sigchain link when packed as <a href="/docs/api/1.0/canonical_packings">canonical JSON</a>, or <code>null</code> if this is the first link</li>
+<li><code>seqno</code> – Specifies that this is the <em>n</em>th link in the user’s sigchain</li>
+<li><code>tag</code> – Currently always “signature”. There may be other tag types in the future.</li>
+</ul>
+<p>Properties have been added and deprecated over time, so there’s some duplication and not all links in the wild have them all.</p>
+<h2 id="link-types">Link types</h2>
+<p>Each section below starts with an example <code>body</code> (and leaves out <code>key</code>, <code>device</code>, and <code>version</code>, which were described above).</p>
+<h3 id="eldest"><code>eldest</code></h3>
+<pre><code class="lang-json">{
+    "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"eldest"</span>
+</span>}
+</code></pre>
+<p>Appears at the beginning of a sigchain or after an account reset (may not have been inserted by legacy clients). The link’s signing key becomes the account’s first sibkey.</p>
+<h3 id="sibkey"><code>sibkey</code></h3>
+<pre><code class="lang-json">{
+    "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"sibkey"</span></span>,
+    "<span class="hljs-attribute">sibkey</span>": <span class="hljs-value">{ "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01204…"</span></span>, "<span class="hljs-attribute">reverse_sig</span>": <span class="hljs-value"><span class="hljs-string">"g6Rib…"</span> </span>}
+</span>}
+</code></pre>
+<p>Add a new sibkey to the account. <code>reverse_sig</code> is a signature of the link by the new sibkey itself, made with the <code>reverse_sig</code> field set to <code>null</code>, and makes sure that a user can’t claim another user’s key as their own.</p>
+<h3 id="subkey"><code>subkey</code></h3>
+<pre><code class="lang-json">{
+    "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"subkey"</span></span>,
+    "<span class="hljs-attribute">subkey</span>": <span class="hljs-value">{ "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01216…"</span></span>, "<span class="hljs-attribute">parent_kid</span>": <span class="hljs-value"><span class="hljs-string">"01204…"</span> </span>}
+</span>}
+</code></pre>
+<p>Add a new encryption-only <em>subkey</em> to the account. We plan to use these in the future.</p>
+<h3 id="pgp_update"><code>pgp_update</code></h3>
+<pre><code class="lang-json">{
+    "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"pgp_update"</span></span>,
+    "<span class="hljs-attribute">pgp_update</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01012ba0d60aa99320643f47eb787dc637821bc77cc89ccffbdbfd62124c1c22c1460a"</span></span>,
+        "<span class="hljs-attribute">key_id</span>": <span class="hljs-value"><span class="hljs-string">"0DAA1A4AB1D88291"</span></span>,
+        "<span class="hljs-attribute">fingerprint</span>": <span class="hljs-value"><span class="hljs-string">"5e685e60eb8733654dcb00570daa1a4ab1d88291"</span></span>,
+        "<span class="hljs-attribute">full_hash</span>": <span class="hljs-value"><span class="hljs-string">"e02a1871c01285608c5bac3fb00be419b982c3c312c2c517ec6a1d9f7323be4f"</span></span>,
+    }
+</span>}
+</code></pre>
+<p>Update a PGP key to a new version (which may have new subkeys, revoked subkeys, new user IDs…). The <code>pgp_update</code> section contains the same properties a <code>key</code> section would. <code>full_hash</code> is expected to have changed, the other properties should be unchanged.</p>
+<h3 id="revoke"><code>revoke</code></h3>
+<pre><code class="lang-json">{
+    "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"revoke"</span></span>,
+    "<span class="hljs-attribute">revoke</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">kids</span>": <span class="hljs-value">[ <span class="hljs-string">"01201…"</span>, <span class="hljs-string">"01215…"</span> ]</span>,
+        "<span class="hljs-attribute">sig_ids</span>": <span class="hljs-value">[ <span class="hljs-string">"038cd…"</span>, <span class="hljs-string">"f927c…"</span> ]
+    </span>}
+</span>}
+</code></pre>
+<p>Remove the keys in <code>kids</code> from your account. Any previous links they’ve signed are still valid, but they can no longer sign new links and other users should no longer encrypt for them after seeing the <code>revoke</code> link. Also reverse the effects of the links in <code>sig_ids</code> — this can be used to remove, for instance, a <code>web_service_binding</code>.</p>
+<h3 id="web_service_binding"><code>web_service_binding</code></h3>
+<pre><code class="lang-json">{
+    "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"web_service_binding"</span></span>,
+    "<span class="hljs-attribute">service</span>": <span class="hljs-value">{ "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"github"</span></span>, "<span class="hljs-attribute">username</span>": <span class="hljs-value"><span class="hljs-string">"keybase"</span> </span>}
+</span>}
+</code></pre>
+<p>Claim, “I am <code>username</code> on the website <code>name</code>”. The client will look for a copy of the link and signature on the website, in an appropriate place. The server searches for the proof when the link is first posted, and caches its permalink (e.g. the tweet, on Twitter, the Gist, on GitHub) so that the client doesn’t have to rediscover it each time.</p>
+<p>The <code>service</code> section can also look like this, which claims that you control the given domain name (the client looks for the proof in DNS):</p>
+<pre><code class="lang-json">{ "<span class="hljs-attribute">domain</span>": <span class="hljs-value"><span class="hljs-string">"keybase.io"</span></span>, "<span class="hljs-attribute">protocol</span>": <span class="hljs-value"><span class="hljs-string">"dns"</span> </span>}`
+</code></pre>
+<p>…or like this, which claims that you control the given website (the client looks for the proof at a known path):</p>
+<pre><code class="lang-json">{ "<span class="hljs-attribute">hostname</span>": <span class="hljs-value"><span class="hljs-string">"keybase.io"</span></span>, "<span class="hljs-attribute">protocol</span>": <span class="hljs-value"><span class="hljs-string">"http:"</span> </span>}`
+</code></pre>
+<h3 id="track-to-follow-someone-"><code>track</code> (to &#39;follow&#39; someone)</h3>
+<p>We call this &quot;follow&quot; around the interface now, but our old word is &quot;track&quot;...so that&#39;s what you&#39;ll see in your sig chain:</p>
+<pre><code class="lang-json">{
+    "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"track"</span></span>,
+    "<span class="hljs-attribute">track</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-string">"673a7…"</span></span>,
+        "<span class="hljs-attribute">basics</span>": <span class="hljs-value">{
+            "<span class="hljs-attribute">id_version</span>": <span class="hljs-value"><span class="hljs-number">30</span></span>,
+            "<span class="hljs-attribute">last_id_change</span>": <span class="hljs-value"><span class="hljs-number">1440211236</span></span>,
+            "<span class="hljs-attribute">username</span>": <span class="hljs-value"><span class="hljs-string">"cecileb"</span>
+        </span>}</span>,
+        "<span class="hljs-attribute">key</span>": <span class="hljs-value">{
+            "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01018…"</span></span>,
+            "<span class="hljs-attribute">key_fingerprint</span>": <span class="hljs-value"><span class="hljs-string">"6f989…"</span>
+        </span>}</span>,
+        "<span class="hljs-attribute">pgp_keys</span>": <span class="hljs-value">[
+            {
+                "<span class="hljs-attribute">kid</span>": <span class="hljs-value"><span class="hljs-string">"01018…"</span></span>,
+                "<span class="hljs-attribute">key_fingerprint</span>": <span class="hljs-value"><span class="hljs-string">"6f989…"</span>
+            </span>}
+        ]</span>,
+        "<span class="hljs-attribute">remote_proofs</span>": <span class="hljs-value">[
+            {
+                "<span class="hljs-attribute">ctime</span>": <span class="hljs-value"><span class="hljs-number">1437414090</span></span>,
+                "<span class="hljs-attribute">curr</span>": <span class="hljs-value"><span class="hljs-string">"ee483…"</span></span>,
+                "<span class="hljs-attribute">etime</span>": <span class="hljs-value"><span class="hljs-number">1595094090</span></span>,
+                "<span class="hljs-attribute">remote_key_proof</span>": <span class="hljs-value">{
+                    "<span class="hljs-attribute">check_data_json</span>": <span class="hljs-value">{
+                        "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"twitter"</span></span>,
+                        "<span class="hljs-attribute">username</span>": <span class="hljs-value"><span class="hljs-string">"cecileboucheron"</span>
+                    </span>}</span>,
+                    "<span class="hljs-attribute">proof_type</span>": <span class="hljs-value"><span class="hljs-number">2</span></span>,
+                    "<span class="hljs-attribute">state</span>": <span class="hljs-value"><span class="hljs-number">1</span>
+                </span>}</span>,
+                "<span class="hljs-attribute">seqno</span>": <span class="hljs-value"><span class="hljs-number">1</span></span>,
+                "<span class="hljs-attribute">sig_id</span>": <span class="hljs-value"><span class="hljs-string">"02ad8…"</span></span>,
+                "<span class="hljs-attribute">sig_type</span>": <span class="hljs-value"><span class="hljs-number">2</span>
+            </span>}
+        ]
+    </span>}
+</span>}
+</code></pre>
+<p>Make a <a href="/docs/server_security/following">snapshot of another user’s identity</a> that your other devices trust. The <code>track</code> section contains these properties:</p>
+<ul>
+<li><code>id</code> – Their user ID</li>
+<li><code>basics</code> – Contains their username and identity generation. The server bumps the identity generation whenever the state of any of their proofs changes, as a hint to the client that it should recheck them all and possibly alert the user to the change.</li>
+<li><code>key</code> – Contains the KID and fingerprint (if applicable) of their eldest key.</li>
+<li><code>pgp_keys</code> – An array of the KID and fingerprint of every one of their PGP keys</li>
+<li><code>remote_proofs</code> – An array of objects which represent their proofs. Many properties are copied directly from the relevant links in the followee’s sigchain, but there are some non-obvious ones:<ul>
+<li><code>curr</code> – The hash of the link which contains the proof</li>
+<li><code>sig_type</code> – An integer representation of the proof’s link type, currently always <code>2</code> (<code>web_service_binding</code>)</li>
+<li><code>remote_key_proof</code><ul>
+<li><code>check_data_json</code> – The <code>service</code> section of the identity proof link</li>
+<li><code>proof_type</code> – An integer representation of the account being proven (Twitter, GitHub, etc.)</li>
+<li><code>state</code> – An integer representation of whether the client could successfully verify the proof when making the tracking statement.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>A repeat <code>follow</code> link for the same user replaces the previous one (the user may have re-followed due to a change in proofs).</p>
+<h3 id="untrack-to-unfollow-someone-"><code>untrack</code> (to &quot;unfollow&quot; someone)</h3>
+<pre><code class="lang-json">{
+    "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"untrack"</span></span>,
+    "<span class="hljs-attribute">untrack</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">basics</span>": <span class="hljs-value">{ "<span class="hljs-attribute">username</span>": <span class="hljs-value"><span class="hljs-string">"maria"</span> </span>}</span>,
+        "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-string">"47968…"</span>
+    </span>}
+</span>}
+</code></pre>
+<p>Stop following a user. Your other devices will resume checking their identity proofs and presenting them to you whenever you interact with them. <code>id</code> is the user’s UID.</p>
+<h3 id="cryptocurrency"><code>cryptocurrency</code></h3>
+<pre><code class="lang-json">{
+    "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"cryptocurrency"</span></span>,
+    "<span class="hljs-attribute">cryptocurrency</span>": <span class="hljs-value">{ "<span class="hljs-attribute">address</span>": <span class="hljs-value"><span class="hljs-string">"1BYzr…"</span></span>, "<span class="hljs-attribute">type</span>": <span class="hljs-value"><span class="hljs-string">"bitcoin"</span> </span>}
+</span>}
+</code></pre>
+<p>Advertise a cryptocurrency address. Currently only Bitcoin addresses are supported.</p>
+
+
+  <div class="appendix">
+    <h2 id="footnote-1-pgp-key-servers-and-lying-by-omission">footnote 1: <em>PGP key servers and lying by omission</em></h2>
+<p>When someone changes a PGP key — to update its expiration date or add a signature, for example — they’re expected to broadcast the change to a <a href="https://en.wikipedia.org/wiki/Key_server_\(cryptographic\">key server</a>). That key server is responsible for forwarding the change to other key servers, and so on. Eventually, someone else can ask any other key server if there have been updates to the key, and receive them.</p>
+<p>Notably, nothing stops someone from making a change to their PGP key on one computer, a different change on another computer, and sending each change to a different key server. The key servers are expected to share updates and offer their own combined versions of the key for download.</p>
+<p>The design of PGP keys stops an attacker from creating fake updates, but a dishonest key server can still choose to ignore updates that revoke keys, revoke signatures, and add expiration dates, but publish updates that add new keys, add new signatures, and take away expiration dates.</p>
+<p>Keybase sigchains aim to avoid this.</p>
+
+  </div>
+    </div>
+  </div>
+
+</div>
+
+
+      </div>
+
+      <div class="footer">
+  
+      <div class="container hidden-xs">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
+            <img src="/images/walkthrough/footprints_transp.png"  class="img-responsive" width="1000" height="272">
+          </div>
+        </div>
+      </div>
+    
+
+<div class="container text-center hidden-xs">
+  <div>
+
+    <small>
+      Keybase, 2018
+    | Available within Tor at <strong>http://fncuwbiisyh6ak3i.onion</strong><br><br>
+    </small>
+
+      <a href="/download">install Keybase</a>
+      | <a href="/blog">read our blog</a>
+      | <a href="/docs">documentation</a>
+      | <a href="https://github.com/keybase/client/issues" rel="noopener noreferrer">bug reporting</a>
+      | <a href="/docs/terms">terms</a>
+      &amp; <a href="/docs/privacypolicy">privacy</a><br><br>
+      <a href="/jobs">jobs @ keybase</a>
+    </div>
+  </div>
+</div>
+<div class="container text-center visible-xs" style="padding:20px 0">
+
+  
+
+  <div style="margin-bottom:20px">
+    <a href="https://github.com/keybase/client/issues" rel="noopener noreferrer">Please send us feedback &amp; bug reports</a>.
+  </div>
+  Keybase, 2018
+    | <a href="/blog">read our blog</a>
+    | <a href="/docs/terms">terms</a>
+    &amp; <a href="/docs/privacypolicy">privacy</a><br><br>
+      <span class="label label-info">HEY</span> <a href="/jobs">GET A JOB!</a> <span class="label label-info">/HEY</span>
+</div>
+</div>
+
+
+    </div>
+  </div>
+  <script type="text/javascript">
+    window.session = new Session()
+    window.run_mode = "prod";
+  </script>
+  </body>
+</html>
